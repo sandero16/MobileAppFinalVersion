@@ -1,0 +1,4 @@
+#Sun Apr 22 12:17:59 CEST 2018
+base.0=/home/andres/AndroidStudioProjects/RetailSonar/app/build/intermediates/transforms/dexMerger/debug/20
+path.0=classes.dex
+renamed.0=classes.dex

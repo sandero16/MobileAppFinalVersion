@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AlleTakenActivity"
+    android:background="@drawable/background_aangepast3">
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/rood"
+        app:popupTheme="@style/AppTheme.PopupOverlay" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp">
+
+
+        <Button
+            android:id="@+id/logout"
+            style="?android:textAppearanceSmall"
+            android:stateListAnimator="@null"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:drawableLeft="@drawable/ic_action_arrow"
+            android:drawableTint="@color/white"
+
+            android:textColor="@color/white"
+            android:background="@color/rood"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteY="25dp" />
+        <TextView
+            android:id="@+id/logouttext"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="18dp"
+            android:layout_marginLeft="30dp"
+            android:text="log out"
+            android:textColor="#FFFFFF"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/subtitle"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true"
+            android:text="Retail Sonar"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp" />
+
+
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/Filialen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:text="Filialen"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="65sp" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/my_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="381dp"
+        android:layout_marginTop="180dp"
+
+        android:scrollbars="vertical"
+        app:layoutManager="android.support.v7.widget.LinearLayoutManager"
+
+        tools:layout_editor_absoluteY="182dp" />
+
+
+
+
+
+
+</android.support.design.widget.CoordinatorLayout>

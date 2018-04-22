@@ -1,0 +1,466 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:2:1-93:12
+MERGED from [com.android.support:customtabs:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.0.aar/2db21b5e635ef62008e8d0398bedde91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/13a78356d3d3f6b465568638382d72ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/cb6d9cef2e44a3e5b09cedb3b36a1cf7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a13e03904b2b8b68ace17cbcd25964ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] /home/sander/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta6.aar/2ad4d5346d1f19c4666b332a50c9b061/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/2087c10c3bf2b9e9682698061030766b/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/5617c2de9f28e655cba10ea81f6e1e33/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/df57a51bc58214975fda523d580ebeaf/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/8a3e07dd0ed2c1879bb601e7ca45a352/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e1cc42bf2d71fd6667d485f8fa10472a/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/573cca96dba44dd5868427da500c935a/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/a46bddd646497ed9d49d905d7bf45fec/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/807af1c26175edca1bdaf88a186ed623/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/16a547e1105cfeccfa1c553c477ebdd0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/9a2f20ffae9f668a3e854c0d09d32b3a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/576c259a2502dfde27d5ffde272adc8e/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0938a8b3c368640b36de3f4a0fb6f851/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/f3dc26bf54ca1cfd4151561d953e03fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/03a1837dd289346db6f1f8daaa263882/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/127e3576bd07061a11b85c3bd86b0540/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/18979b9b6b8ec6a24c62837a224bf94b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/9738c1f8abe990c2fdda83afcec1bffc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/3c1890d330def8847cf067cdd9a82c8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/25ab6f34209b280b5c5547f185097e32/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7415a7acc76d58b5d708bd231436ed80/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/d6fe0a56970856da42c799020f791e7d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9da78b9078f9331fc1a2c0f7cfedb386/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/208e25089b333e807aac4ce6c81d9f77/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/38a2e8f0e9d54d62ac1032102ff76425/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/dc03350ecab6e5a9b266b0ed4d0509fc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/5950d23165aa1105b1eb073c6f351e9f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/469234a8791af3154c8af44973da1ca1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/6c0e093c3ae5d76b7ff1cdf324c8f00b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/5889615c154a6e8149fb1abfd5c02698/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/0ed55a2124f59a12be8b3aa38a979834/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/766688c423a59fbd68ec4922414b3d2a/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:8:5-43:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:15:5-91:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:15:5-91:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] /home/sander/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta6.aar/2ad4d5346d1f19c4666b332a50c9b061/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] /home/sander/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta6.aar/2ad4d5346d1f19c4666b332a50c9b061/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/2087c10c3bf2b9e9682698061030766b/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/2087c10c3bf2b9e9682698061030766b/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/5617c2de9f28e655cba10ea81f6e1e33/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/5617c2de9f28e655cba10ea81f6e1e33/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e1cc42bf2d71fd6667d485f8fa10472a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e1cc42bf2d71fd6667d485f8fa10472a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/573cca96dba44dd5868427da500c935a/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/573cca96dba44dd5868427da500c935a/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/a46bddd646497ed9d49d905d7bf45fec/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/a46bddd646497ed9d49d905d7bf45fec/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/807af1c26175edca1bdaf88a186ed623/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/807af1c26175edca1bdaf88a186ed623/AndroidManifest.xml:22:5-26:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/576c259a2502dfde27d5ffde272adc8e/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/576c259a2502dfde27d5ffde272adc8e/AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/dc03350ecab6e5a9b266b0ed4d0509fc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/dc03350ecab6e5a9b266b0ed4d0509fc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/5950d23165aa1105b1eb073c6f351e9f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/5950d23165aa1105b1eb073c6f351e9f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/469234a8791af3154c8af44973da1ca1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/469234a8791af3154c8af44973da1ca1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/6c0e093c3ae5d76b7ff1cdf324c8f00b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/6c0e093c3ae5d76b7ff1cdf324c8f00b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/5889615c154a6e8149fb1abfd5c02698/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/5889615c154a6e8149fb1abfd5c02698/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/0ed55a2124f59a12be8b3aa38a979834/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/0ed55a2124f59a12be8b3aa38a979834/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/766688c423a59fbd68ec4922414b3d2a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/766688c423a59fbd68ec4922414b3d2a/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:9:9-42
+activity#be.retailsonar.retailsonar.LoginActivity
+ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:16:9-26:20
+	android:label
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:18:13-45
+	android:windowSoftInputMode
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:20:13-65
+	android:theme
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:17:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:24:27-74
+activity#be.retailsonar.retailsonar.UserActivity
+ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:27:9-30:59
+	android:label
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:29:13-56
+	android:theme
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:28:13-41
+activity#be.retailsonar.retailsonar.AlleTakenActivity
+ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:31:9-34:59
+	android:label
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:33:13-62
+	android:theme
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:32:13-46
+activity#be.retailsonar.retailsonar.SettingsActivity
+ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:35:9-38:58
+	android:label
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:37:13-60
+	android:theme
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:36:13-45
+activity#be.retailsonar.retailsonar.TakenActivity
+ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:39:9-42:68
+	android:label
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:41:13-57
+	android:theme
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml:40:13-42
+uses-sdk
+INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml
+INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:customtabs:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.0.aar/2db21b5e635ef62008e8d0398bedde91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.0.aar/2db21b5e635ef62008e8d0398bedde91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/13a78356d3d3f6b465568638382d72ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/13a78356d3d3f6b465568638382d72ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/cb6d9cef2e44a3e5b09cedb3b36a1cf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/cb6d9cef2e44a3e5b09cedb3b36a1cf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a13e03904b2b8b68ace17cbcd25964ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a13e03904b2b8b68ace17cbcd25964ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] /home/sander/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta6.aar/2ad4d5346d1f19c4666b332a50c9b061/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] /home/sander/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta6.aar/2ad4d5346d1f19c4666b332a50c9b061/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/2087c10c3bf2b9e9682698061030766b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/2087c10c3bf2b9e9682698061030766b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/5617c2de9f28e655cba10ea81f6e1e33/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/5617c2de9f28e655cba10ea81f6e1e33/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/df57a51bc58214975fda523d580ebeaf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/df57a51bc58214975fda523d580ebeaf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/8a3e07dd0ed2c1879bb601e7ca45a352/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/8a3e07dd0ed2c1879bb601e7ca45a352/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e1cc42bf2d71fd6667d485f8fa10472a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e1cc42bf2d71fd6667d485f8fa10472a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/573cca96dba44dd5868427da500c935a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/573cca96dba44dd5868427da500c935a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/a46bddd646497ed9d49d905d7bf45fec/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/a46bddd646497ed9d49d905d7bf45fec/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/807af1c26175edca1bdaf88a186ed623/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/807af1c26175edca1bdaf88a186ed623/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/16a547e1105cfeccfa1c553c477ebdd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/16a547e1105cfeccfa1c553c477ebdd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/9a2f20ffae9f668a3e854c0d09d32b3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/9a2f20ffae9f668a3e854c0d09d32b3a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/576c259a2502dfde27d5ffde272adc8e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/576c259a2502dfde27d5ffde272adc8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0938a8b3c368640b36de3f4a0fb6f851/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0938a8b3c368640b36de3f4a0fb6f851/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/f3dc26bf54ca1cfd4151561d953e03fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/f3dc26bf54ca1cfd4151561d953e03fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/03a1837dd289346db6f1f8daaa263882/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/03a1837dd289346db6f1f8daaa263882/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/127e3576bd07061a11b85c3bd86b0540/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/127e3576bd07061a11b85c3bd86b0540/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/18979b9b6b8ec6a24c62837a224bf94b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/18979b9b6b8ec6a24c62837a224bf94b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/9738c1f8abe990c2fdda83afcec1bffc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/9738c1f8abe990c2fdda83afcec1bffc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/3c1890d330def8847cf067cdd9a82c8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/3c1890d330def8847cf067cdd9a82c8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/25ab6f34209b280b5c5547f185097e32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/sander/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/25ab6f34209b280b5c5547f185097e32/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7415a7acc76d58b5d708bd231436ed80/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7415a7acc76d58b5d708bd231436ed80/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/d6fe0a56970856da42c799020f791e7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/d6fe0a56970856da42c799020f791e7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9da78b9078f9331fc1a2c0f7cfedb386/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9da78b9078f9331fc1a2c0f7cfedb386/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/208e25089b333e807aac4ce6c81d9f77/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/208e25089b333e807aac4ce6c81d9f77/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/38a2e8f0e9d54d62ac1032102ff76425/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/38a2e8f0e9d54d62ac1032102ff76425/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/dc03350ecab6e5a9b266b0ed4d0509fc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/dc03350ecab6e5a9b266b0ed4d0509fc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/5950d23165aa1105b1eb073c6f351e9f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/5950d23165aa1105b1eb073c6f351e9f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/469234a8791af3154c8af44973da1ca1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/469234a8791af3154c8af44973da1ca1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/6c0e093c3ae5d76b7ff1cdf324c8f00b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/6c0e093c3ae5d76b7ff1cdf324c8f00b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/5889615c154a6e8149fb1abfd5c02698/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/5889615c154a6e8149fb1abfd5c02698/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/0ed55a2124f59a12be8b3aa38a979834/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/0ed55a2124f59a12be8b3aa38a979834/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/766688c423a59fbd68ec4922414b3d2a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/766688c423a59fbd68ec4922414b3d2a/AndroidManifest.xml:20:5-44
+INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml
+INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml
+		ADDED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sander/Documents/projectv2/android workspace/Workspace android/workspace2204/RetailSonar/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:12:22-76
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/807af1c26175edca1bdaf88a186ed623/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/807af1c26175edca1bdaf88a186ed623/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:20:13-58
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:23:9-27:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:26:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:24:13-64
+activity#com.firebase.ui.auth.ui.idp.SingleSignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:28:9-32:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:31:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:30:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:29:13-76
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:33:9-37:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:36:13-72
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:37:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:34:13-81
+activity#com.firebase.ui.auth.ui.email.EmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:38:9-42:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:41:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:42:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:39:13-71
+activity#com.firebase.ui.auth.ui.phone.PhoneActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:43:9-47:77
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:46:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:47:13-74
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:44:13-71
+activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:48:9-52:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:51:13-70
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:52:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:49:13-76
+activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:53:9-57:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:56:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:57:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:54:13-83
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:58:9-61:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:61:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:59:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:62:9-66:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:65:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:66:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:64:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:63:13-57
+activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:67:9-71:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:70:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:69:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:71:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:68:13-86
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:72:9-84:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:74:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:75:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:73:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:76:13-83:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:77:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:77:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:79:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:79:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:80:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:80:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:82:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:82:23-78
+provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:86:9-90:38
+	android:authorities
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:88:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:89:13-37
+	android:initOrder
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:90:13-35
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/a7e12b9013f3dfa411a15f14e7bd2a03/AndroidManifest.xml:87:13-79
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/2087c10c3bf2b9e9682698061030766b/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/2087c10c3bf2b9e9682698061030766b/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/2087c10c3bf2b9e9682698061030766b/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/2087c10c3bf2b9e9682698061030766b/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/2087c10c3bf2b9e9682698061030766b/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/2087c10c3bf2b9e9682698061030766b/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/2087c10c3bf2b9e9682698061030766b/AndroidManifest.xml:24:13-85
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/5617c2de9f28e655cba10ea81f6e1e33/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/5617c2de9f28e655cba10ea81f6e1e33/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/5617c2de9f28e655cba10ea81f6e1e33/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/5617c2de9f28e655cba10ea81f6e1e33/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/5617c2de9f28e655cba10ea81f6e1e33/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/5617c2de9f28e655cba10ea81f6e1e33/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/5617c2de9f28e655cba10ea81f6e1e33/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/5617c2de9f28e655cba10ea81f6e1e33/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/5617c2de9f28e655cba10ea81f6e1e33/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e1cc42bf2d71fd6667d485f8fa10472a/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e1cc42bf2d71fd6667d485f8fa10472a/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e1cc42bf2d71fd6667d485f8fa10472a/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e1cc42bf2d71fd6667d485f8fa10472a/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/573cca96dba44dd5868427da500c935a/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/573cca96dba44dd5868427da500c935a/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/573cca96dba44dd5868427da500c935a/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/573cca96dba44dd5868427da500c935a/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/sander/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/573cca96dba44dd5868427da500c935a/AndroidManifest.xml:9:13-77
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/576c259a2502dfde27d5ffde272adc8e/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/576c259a2502dfde27d5ffde272adc8e/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/576c259a2502dfde27d5ffde272adc8e/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/576c259a2502dfde27d5ffde272adc8e/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /home/sander/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/576c259a2502dfde27d5ffde272adc8e/AndroidManifest.xml:24:13-83
